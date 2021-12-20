@@ -11,7 +11,7 @@
 * Authentication and authorization.
 * Routing.
 * Forms and validation.
-* Search , pagination and filtration.
+* Searching , pagination and sorting
 * CRUD operations.
 
 ## Development server
