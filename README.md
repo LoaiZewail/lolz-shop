@@ -1,6 +1,7 @@
 # Lolz Shop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
+* This project is based on the angular course made by [Mosh Hamedani](https://codewithmosh.com/p/angular-master-class)
 
 ## Features
 
